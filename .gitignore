@@ -1,0 +1,6 @@
+.astro/
+.idea/
+.netlify/
+.svelte-kit/
+node_modules/
+*.iml

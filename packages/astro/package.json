@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "astro": "4.11.5"
+  },
+  "name": "p-astro",
+  "private": true,
+  "scripts": {
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview"
+  },
+  "type": "module",
+  "version": "0.0.1"
+}
